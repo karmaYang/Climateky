@@ -1,0 +1,115 @@
+
+menu a {
+  display: block;
+  padding:14px 16px;
+  color:white;
+  float:left;
+  background-color: steelblue;
+}
+
+#HomeBodyTag{
+  background-image: url("climate.jpg");
+}
+
+#editImg img{
+  height:auto;
+  max-width: 100%;
+  position: relative;
+
+}
+
+.container{
+  position:relative;
+  width: 500px;
+  }
+.topright{
+  position:absolute;
+  top:300px;
+  right:-400px;
+  font-size: 50px;
+    color:white;
+  }
+
+  .pic{
+    width: 1500px;
+    height:500px;
+  }
+
+  h1 {
+    color: brown;
+    font-family: Papyrus;
+    font-size:  30px;
+    text-align: center;
+  }
+
+  .para
+  {
+    padding: 25px 50px 50px 80px;
+      margin: auto ;
+    font-size: 30px;
+    text-align: center;
+  }
+
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  height: 36px;
+  line-height: 36px;
+  background-color: #000;
+  font-family: Arial, Helvetica,sans-serif;
+  font-size: 13px
+}
+
+li{
+  float: left;
+  border-right: 1px solid #156ee2;
+}
+
+a{
+  display: block;
+  padding:0 28px;
+  color:#fff;
+  text-decoration: none;
+}
+
+a:hover, .active a{
+  background-color: #156ee2;
+}
+
+
+
+h3 {
+
+  font-size:  20px;
+  align-content: center;
+}
+
+h2{
+  color: ##0dc76e;
+}
+
+
+
+
+.mission{
+  text-align: center;
+}
+.head
+
+.para{
+  text-align: center;
+  top:50px
+}
+
+#vid{
+  top: auto;
+  right:300px
+}
+
+#AboutBodyTag
+body {
+  background-image: url("aboutbackground.jpg");
+  background-repeat: no-repeat;
+  color: #F18D81;
+ }

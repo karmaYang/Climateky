@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+   <head>
+       <title>My Project - Climate Change</title>
+       <link href="projectcss.css" rel="stylesheet">
+   </head>
+
+   <body>
+      <ul>
+         <li class="active"><a href= "Home.html" target="_blank">Home</a></li>
+         <li><a href= "Product.html" target="_blank">Product</a></li>
+         <li><a href=  "About.html" target="_blank">About</a></li>
+         <li><a href=  "Contact.html" target="_blank">Contact</a></li>
+
+       </ul>
+
+
+     <div class="container">
+       <img class="pic"src = "change.jpg">>
+         <div class="topright" >
+                  Climate Change
+         </div>
+       </div>
+
+<p class="para"> <h1>Climate change<h1> is a long-term shift in global or regional climate patterns.
+   Often climate change refers specifically to the rise in global temperatures
+    from the mid-20th century to present.slo Environmental change alludes to
+    long haul shifts in temperatures and climate designs. These movements might
+     be normal, for example, through varieties in the sun based cycle. In any
+     case, since the 1800s, human exercises have been the primary driver of
+     environmental change, principally because of consuming petroleum products
+      like coal, oil and gas.(source:Internet)</p>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jAa58N4Jlos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+ </body>
+</html>
